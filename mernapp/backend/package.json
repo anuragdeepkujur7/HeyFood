@@ -18,7 +18,8 @@
   "homepage": "https://github.com/anuragdeepkujur7/HeyFood#readme",
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^8.5.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^6.10.0",
     "nodemon": "^3.1.4"
   }
 }
