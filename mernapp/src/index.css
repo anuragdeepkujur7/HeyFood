@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#carouselExampleFade{
+  max-height: 100px;
+
+}
+/*mongoimport --uri mongodb+srv://anuragdeepkujur758:AnuragDeepKujur7@@cluster0.dblujda.mongodb.net/gofoodmern 
+--collection food_items --type jsonArray --file "C:\Users\DELL\Downloads\foodData2.json"*/
